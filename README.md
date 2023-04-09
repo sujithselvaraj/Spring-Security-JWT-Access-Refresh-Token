@@ -15,4 +15,14 @@ Do add it
 
 
 After creating a project hit the postman
-http://localhost:8080/api/login with 
+
+http://localhost:8080/api/login with post request
+
+
+http://localhost:8080/api/users with get request
+
+
+http://localhost:8080/api/token/refresh with get request
+
+
+Dont forget to add the body and header whereever neccessary
