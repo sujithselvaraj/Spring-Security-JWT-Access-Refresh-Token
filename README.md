@@ -26,3 +26,8 @@ http://localhost:8080/api/token/refresh with get request
 
 
 Dont forget to add the body and header whereever neccessary
+
+
+You can also use the jwt debugger to access the token information with the access token and refresh token
+
+https://jwt.io/#debugger-io
